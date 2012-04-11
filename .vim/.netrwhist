@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/tmp'
+let g:netrw_dirhist_2='/home/haldean/Code/cm-sketches'
+let g:netrw_dirhist_3='/home/haldean/Code/replicatorg-0026/skein_engines/skeinforge-35/skeinforge_application/prefs/SF35-Transmogrifier/profiles/extrusion/ABS'
+let g:netrw_dirhist_4='/Users/haldean/Code/tracing/code'
+let g:netrw_dirhist_5='/Users/haldean/Code/demos/asciifractal'
